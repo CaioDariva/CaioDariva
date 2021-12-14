@@ -1,8 +1,8 @@
 <div align="center">
-<img width="100%" height = "80%" src="https://i.pinimg.com/564x/aa/42/e2/aa42e21bf7047a27903f2a45e8f0e84d.jpg" alt="cover" />
+<img width="50%" height = "50%" src="https://i.pinimg.com/564x/aa/42/e2/aa42e21bf7047a27903f2a45e8f0e84d.jpg" alt="cover" />
 </div>
 
-<h1> Hello, i'm < Caio/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello, I'm < Caio/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=CaioDariva.CaioDariva)
