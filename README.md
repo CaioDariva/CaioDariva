@@ -1,5 +1,5 @@
 <div align="center">
-<img width="50%" height = "50%" src="https://i.pinimg.com/564x/aa/42/e2/aa42e21bf7047a27903f2a45e8f0e84d.jpg" alt="cover" />
+<img width="50%" height = "50%" src="https://fbcoverstreet.com/thumbnail/PkNTNWFQxJXSZvVzdPNL3BvAN3Fx6KzOgeWsPEY86mGZu7qOJx6EuD6OxNFTRRUn.webp" alt="cover" />
 </div>
 
 <h1> Hello, I'm < Caio/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
